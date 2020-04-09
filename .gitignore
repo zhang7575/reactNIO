@@ -1,7 +1,9 @@
 _Store
-.idea/
+.idea/*
 .mtj.tmp/
 .settings/
-target/
+target/*
 *.iml
-bin/
+bin/*
+.project
+.classpath
